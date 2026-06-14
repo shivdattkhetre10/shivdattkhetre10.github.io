@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.catering.adminapp",
+    "sha256_cert_fingerprints":
+    ["01:1A:41:9A:29:DF:54:1D:67:C0:6F:01:21:7B:DE:B6:95:2C:C2:46:92:C4:4F:96:AC:5E:5F:58:A6:76:EB:4E"]
+  }
+}]
